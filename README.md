@@ -26,7 +26,7 @@ I am passionate about solving complex problems and creating products that make a
 ---
 
 ### 📍 **Get In Touch**:
-- 📧 [darshanpandey515@gmail.com](mailto:pandeydarshan61@gmail.com)
+- 📧 [pandeydarshan61@gmail.com](mailto:pandeydarshan61@gmail.com)
 - 🧑‍💻 [LinkedIn](https://www.linkedin.com/in/darshan-pandey/)
 
 let's build something amazing together! 💻✨
