@@ -10,12 +10,11 @@ I'm a full-stack developer, passionate about creating dynamic web apps with a fo
 ---
 
 ### 🛠 **Technologies & Tools I Use**:
-- **Frontend**: React.js, Next.js, HTML5, CSS3, JavaScript, Tailwind CSS, Bootstrap
-- **Backend**: Django, Node.js, Next.js
-- **Databases**: PostgreSQL, MongoDB
+- **Frontend**: React.js, HTML5, CSS3, JavaScript, Tailwind CSS, Bootstrap
+- **Backend**: Django, Node.js
+- **Databases**: PostgreSQL
 - **Version Control**: Git, GitHub
-- **Deployment**: Heroku, AWS, DigitalOcean
-- **Others**: Docker, REST APIs, JWT Authentication
+- **Deployment**: Heroku, DigitalOcean
 
 ---
 
